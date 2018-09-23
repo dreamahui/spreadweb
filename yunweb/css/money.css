@@ -1,0 +1,69 @@
+
+.view-controller{
+	background-color: #DCDCDC;
+}
+
+
+.view-content{
+	background-color: white;
+	margin-left: 40px;
+	margin-right: 40px;
+}
+
+
+
+.text-two{
+	margin-top: 20px;
+/*	margin-left: 20px;
+*/	font-size: 90%; 
+	font-weight: 400; 
+	color: #81B0D3; 
+	text-decoration: none; 
+}
+
+.aliyun-view-ui{
+	display: inline-flex;
+	width: 100%;
+}
+
+
+.aliyun-view-left{
+	width: 60%;
+}
+
+
+.aliyun-view-right{
+	width: 40%;
+}
+
+
+.item-content{
+	background-color: yellow;
+	line-height: 100px;
+	width: 100%;
+/*	padding-top: 20px;
+*/	margin-top: 20px;
+	display: inline-flex;
+}
+
+.item-img-content{
+	display: table-cell;
+	text-align: center;
+	vertical-align: center;
+}
+
+.item-logo{
+	margin-top: 20px;
+	width: 100px;
+	height: 60px;
+	/*vertical-align: center;*/
+}
+
+
+
+
+
+
+
+
+
